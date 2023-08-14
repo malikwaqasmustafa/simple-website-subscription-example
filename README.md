@@ -18,10 +18,11 @@ Follow these steps to set up and run the application:
    Composer install
    ```
 3. **Database Configuration:**
+ 
    Create a copy of the .env.example file and name it .env.
    Configure the database connection settings in the .env file.
 
-4. **Migrate and Seed Database:**
+5. **Migrate and Seed Database:**
    ```
    php artisan migrate
    ```
