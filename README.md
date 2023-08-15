@@ -2,6 +2,8 @@
 
 Welcome to the Subscription Platform Test Application! This is a simple application that demonstrates a subscription platform where users can subscribe to various websites and receive email notifications when new posts are published.
 
+![Demo GIF](demo.gif)
+
 ## Installation
 
 Follow these steps to set up and run the application:
