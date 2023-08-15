@@ -2,6 +2,14 @@
 
 Welcome to the Subscription Platform Test Application! This is a simple application that demonstrates a subscription platform where users can subscribe to various websites and receive email notifications when new posts are published.
 
+**Access the API documentation:**
+
+**Open your web browser and navigate to http://localhost/request-docs.**
+
+The API documentation is generated using *OpenAPI 3.0, providing detailed information about the available endpoints and their usage.
+
+**Demo**
+
 ![Demo GIF](demo.gif)
 
 ## Installation
@@ -41,8 +49,3 @@ Follow these steps to set up and run the application:
    ```
    php artisan serve
    ```
-**Access the API documentation:**
-
-**Open your web browser and navigate to http://localhost/request-docs.**
-
-The API documentation is generated using *OpenAPI 3.0, providing detailed information about the available endpoints and their usage.
